@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class GeminiChatbot {
     // Replace this with your actual Gemini API key
-    private static final String API_KEY = "AIzaSyDuC_8wPIqKo-7qtsL2wafkX6Mh6Qzfwso";
+    private static final String API_KEY = "YOUR_GEMINI_API_KEY";
     // private static final String API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=" + API_KEY;
     private static final String API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=" + API_KEY;
 
